@@ -1,0 +1,50 @@
+body {background-color: #cccccc;}
+
+.cabeza {
+    margin: 10px 0px 50px 210px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(97, 87, 160);
+}
+
+.listaperros {
+    margin: 50px 50px 50px 30px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+    border-radius: 10px;
+    border-top: solid 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(77, 76, 76);
+    width: 550px;
+    padding: 25px;
+}
+
+.listagatos {
+    margin: 50px 50px 50px 30px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+    border-radius: 10px;
+    border-top: solid 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(77, 76, 76);
+    width: 550px;
+    padding: 25px;
+}
+
+.listaaves {
+    margin: 50px 50px 50px 30px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+    border-radius: 10px;
+    border-top: solid 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(77, 76, 76);
+    width: 550px;
+    padding: 25px;
+}
+
